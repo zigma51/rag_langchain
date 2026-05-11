@@ -42,5 +42,10 @@ GOOGLE_API_KEY=AIza_your_key_here
 #  • Swap GEN_MODEL in rag/generator.py to gemini-2.5-pro for harder tasks.
 #  • Raise TOP_K in the sidebar slider for dense technical documents.
 
+
 # Collaborators 
 # Shachi Baxi 
+
+#collaborators 
+#jahnavi_capstone_project
+
