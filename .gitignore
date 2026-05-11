@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Vector store (large binary files, regenerated on ingest)
+vector_store/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
